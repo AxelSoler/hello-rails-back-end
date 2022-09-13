@@ -8,6 +8,8 @@ gem 'rails', '~> 7.0.4'
 
 gem 'ffi'
 
+gem 'rack-cors'
+
 # Load environment variables
 gem 'dotenv-rails', require: 'dotenv/rails-now'
 

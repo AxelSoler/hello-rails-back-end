@@ -2,7 +2,7 @@
 
 # Hello World 2 Apps
 
-> Hello world using react and ror togheter
+> Hello world using react and ror together
 
 [Link to the React app](https://github.com/AxelSoler/hello-react-front-end)
 

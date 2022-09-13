@@ -4,6 +4,8 @@
 
 > Hello world using react and ror togheter
 
+[Link to the React app](https://github.com/AxelSoler/hello-react-front-end)
+
 ## Built With
 
 - Ruby on Rails

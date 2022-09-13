@@ -1,3 +1,5 @@
 class GreetingsController < ApplicationController
-  def index; end
+  def index
+    render json: { greeting: Greeting.all.sample.message }.to_json
+  end
 end
